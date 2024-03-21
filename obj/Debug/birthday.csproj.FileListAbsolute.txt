@@ -1,0 +1,11 @@
+D:\Sean's PC\Documents\Code Projects\C#\birthday\bin\Debug\birthday.exe.config
+D:\Sean's PC\Documents\Code Projects\C#\birthday\bin\Debug\birthday.exe
+D:\Sean's PC\Documents\Code Projects\C#\birthday\bin\Debug\birthday.pdb
+D:\Sean's PC\Documents\Code Projects\C#\birthday\obj\Debug\birthday.csproj.AssemblyReference.cache
+D:\Sean's PC\Documents\Code Projects\C#\birthday\obj\Debug\birthday.csproj.SuggestedBindingRedirects.cache
+D:\Sean's PC\Documents\Code Projects\C#\birthday\obj\Debug\birthday.Form1.resources
+D:\Sean's PC\Documents\Code Projects\C#\birthday\obj\Debug\birthday.Properties.Resources.resources
+D:\Sean's PC\Documents\Code Projects\C#\birthday\obj\Debug\birthday.csproj.GenerateResource.cache
+D:\Sean's PC\Documents\Code Projects\C#\birthday\obj\Debug\birthday.csproj.CoreCompileInputs.cache
+D:\Sean's PC\Documents\Code Projects\C#\birthday\obj\Debug\birthday.exe
+D:\Sean's PC\Documents\Code Projects\C#\birthday\obj\Debug\birthday.pdb
